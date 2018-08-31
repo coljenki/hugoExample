@@ -1,0 +1,4 @@
+baseURL = "http://www.cloudeagle.co.uk/"
+languageCode = "en-us"
+title = "Cloud Eagle - The view from above!"
+theme = "ananke"
